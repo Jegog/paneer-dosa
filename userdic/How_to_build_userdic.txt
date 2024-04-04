@@ -1,0 +1,31 @@
+
+1.mecab-dict-indexの場所を探す
+
+DockerのExec画面で、
+find / -name "mecab-dict-index"
+
+→存在するディレクトリが表示される
+例：
+/usr/lib/mecab/mecab-dict-index
+
+2.システム辞書のある場所を探す
+DockerのExec画面で、
+find / -name "ipadic
+
+→存在するシステム辞書の場所が表示される（通常複数）
+例：
+/usr/share/mecab/dic/ipadic
+/var/lib/mecab/dic/ipadic
+
+
+辞書のコンパイル
+下記をコピーして、DockerのExecウインドウにペースト・enter
+/usr/lib/mecab/mecab-dict-index -d/usr/share/mecab/dic/ipadic -u /work_dir/userdic/user.dic -f utf-8 -t utf-8 /work_dir/userdic/user.csv
+
+（参考）
+-d DIR: システム辞書があるディレクトリ
+-u FILE: FILE というユーザファイルを作成
+-f charset: CSVの文字コード
+-t charset: バイナリ辞書の文字コード
+
+→辞書が作成（更新）される

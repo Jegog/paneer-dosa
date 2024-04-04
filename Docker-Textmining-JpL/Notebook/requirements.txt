@@ -1,0 +1,17 @@
+usd-core
+jupyter
+jupyterlab
+mecab-python3
+unidic-lite
+ipadic
+gensim
+numpy
+SciPy
+matplotlib
+pandas
+pandas-profiling
+scikit-learn
+pyvis==0.2.1
+pdfminer.six
+importlib.metadata
+PyMuPDF
