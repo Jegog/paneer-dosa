@@ -1,2 +1,2 @@
 # paneer-dosa
-# A Docker environment to analyze Integrated Report
+#Docker environments for paersonal use
