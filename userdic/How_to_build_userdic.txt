@@ -10,7 +10,7 @@ find / -name "mecab-dict-index"
 
 2.システム辞書のある場所を探す
 DockerのExec画面で、
-find / -name "ipadic
+find / -name "ipadic"
 
 →存在するシステム辞書の場所が表示される（通常複数）
 例：

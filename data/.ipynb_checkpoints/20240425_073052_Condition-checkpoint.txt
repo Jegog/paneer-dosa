@@ -1,0 +1,3 @@
+Document('data/pana_ar2023j_a4.pdf')
+Target Page=[26]
+Analyzed Links=1000

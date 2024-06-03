@@ -1,0 +1,96 @@
+"\d+Terumo Report 2023CEOメッセージ
+\d+Terumo Report 2023価値創造プロセス
+\d+Terumo Report 2023CAFOメッセージ
+\d+Terumo Report 2023GS26 CSV/ESGテーマ
+\d+Terumo Report 2023財務・非財務ハイライト
+\d+Terumo Report 2023At a Glance
+\d+Terumo Report 2023カンパニー別戦略
+\d+Terumo Report 2023心臓血管カンパニー
+\d+Terumo Report 2023メディカルケアソリューションズカンパニー
+\d+Terumo Report 2023血液・細胞テクノロジーカンパニー
+\d+Terumo Report 2023テルモグループのサステナビリティ
+\d+Terumo Report 2023環境
+\d+Terumo Report 2023EHS（環境・安全衛生）マネジメント
+\d+Terumo Report 2023環境・安全に配慮した製品の開発
+\d+Terumo Report 2023気候変動への取り組み
+\d+Terumo Report 2023資源の有効活用・サーキュラーエコノミー
+\d+Terumo Report 2023実現に向けた取り組み
+\d+Terumo Report 2023水資源の有効利用
+\d+Terumo Report 2023化学物質の適正管理
+\d+Terumo Report 2023生物多様性保全の取り組み
+\d+Terumo Report 2023社会
+\d+Terumo Report 2023製品・サービスの品質・安全性
+\d+Terumo Report 2023調達
+\d+Terumo Report 2023人財
+\d+Terumo Report 2023人権
+\d+Terumo Report 2023社会・地域貢献"
+"トップメッセージ 中期経営計画について
+Manufacturing Transformer 価値創造プロセス
+Manufacturing Transformer 事業活動
+Manufacturing Transformer Sustainability
+Manufacturing Transformer Environment
+Manufacturing Transformer Social
+\d+日機装株式会社　総合報告書2022\d+日機装株式会社　総合報告書2022
+日機装ストーリートップメッセージManufacturing Transformerデータセクション価値創造プロセス
+日機装ストーリートップメッセージManufacturing Transformerデータセクション事業活動
+日機装ストーリートップメッセージManufacturing TransformerデータセクションSustainability
+日機装ストーリートップメッセージManufacturing TransformerデータセクションEnvironment
+日機装ストーリートップメッセージManufacturing TransformerデータセクションSocial
+日機装ストーリートップメッセージManufacturing Transformerデータセクション"
+"\d+朝日インテックグループ統合報告書2023
+Your dreams. Woven together.
+社長・投資家対談価値創造ストーリー財務戦略業績・会社情報長期経営ビジョンと中期経営計画サステナビリティ 非財務資本の強化サステナビリティ環境と社会サステナビリティガバナンス
+価値創造ストーリー財務戦略業績・会社情報長期経営ビジョンと中期経営計画サステナビリティ 非財務資本の強化サステナビリティ環境と社会サステナビリティガバナンス
+イントロダクション
+社長・投資家対談
+価値創造ストーリー
+長期経営ビジョンと中期経営計画
+財務戦略
+サステナビリティ 非財務資本の強化
+イノベーションを通じた現場の課題解決
+サステナビリティ 環境と社会
+サステナビリティ ガバナンス
+業績・会社情報"
+"メニコン 統合レポート 2023\d+メニコン 統合レポート 2023メニコンの価値創造
+メニコン 統合レポート 2023\d+メニコン 統合レポート 2023メニコンの成長戦略
+メニコン 統合レポート 2023\d+メニコン 統合レポート 2023メニコンのサステナビリティ経営
+メニコン 統合レポート 2023\d+メニコン 統合レポート 2023コーポレートデータ"
+"Toppan Integrated Report 2023Toppan Integrated Report 2023\d+
+TOPPANグループについて
+持株会社体制への移行について・TOPPAN’s Purpose ＆ Values
+連結財務・非財務ハイライト
+セグメントハイライト
+セグメント別製品・サービス概要
+価値創造のあゆみ
+多様なソリューションを創出する「印刷テクノロジー」
+価値創造プロセス
+価値創造に向けた戦略と取り組み
+トップインタビュー
+CFOメッセージ
+新中期経営計画（成果獲得フェーズ）の概要
+特集：新中期経営計画の事業別成長戦略
+価値創造を支える基盤（ESG情報）
+社外取締役メッセージ
+取締役および監査役一覧
+取締役および監査役のスキルマトリックス
+コーポレートガバナンス
+サステナビリティマネジメント
+環境への取り組み
+社会への取り組み"
+イントロダクション持続的な企業価値向上の取り組み成長戦略コーポレートガバナンスリスクの低減参考資料.*?Nissha Report 2023\d+
+"What's ASICS価値創造戦略価値創造の基盤コーポレートガバナンスデータセクション\d+
+Message from the ＣＥＯＣＥＯメッセージ
+財務担当役員メッセージMessage from the Officer in Charge of Financial Affairs
+過去の中期経営計画と業績の推移
+「中期経営計画2023」重点取組み\d
+価値創造戦略を支える基盤\d
+価値創造の基盤 ―サステナビリティ―"
+"\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023ヤマハの価値創造
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023経営戦略
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023コーポレート戦略
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023事業別／機能別戦略
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023事業別戦略
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023機能別戦略
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023ガバナンス
+\d+ヤマハグループ  統合報告書 2023ヤマハグループ  統合報告書 2023財務／企業情報
+MESSAGE FROM THE PRESIDENT"
