@@ -10,8 +10,14 @@ SciPy
 matplotlib
 pandas
 pandas-profiling
+requests
 scikit-learn
 pyvis==0.2.1
 pdfminer.six
 importlib.metadata
 PyMuPDF
+PyPDF2
+lxml
+beautifulsoup4
+arelle-release
+isodate
