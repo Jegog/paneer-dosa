@@ -19,7 +19,8 @@ def choose_color(index):
 def kyoki_word_network(df):
 
     #Girvan-Newmanアルゴリズムによるコミュニティ分割（networkxの機能）
-    G = nx.from_pandas_edgelist(df, '1番目', '2番目', ['count'])
+    #G = nx.from_pandas_edgelist(df, '1番目', '2番目', ['count'])
+    G = nx.from_pandas_edgelist(df, df.columns[0], df.columns[1], [df.columns[2]])
     comp = girvan_newman(G)
     communities = tuple(sorted(c) for c in next(comp))
 
@@ -35,9 +36,10 @@ def kyoki_word_network(df):
     got_net.force_atlas_2based()
     got_data = df
 
-    sources = got_data['1番目']
-    targets = got_data['2番目']
-    weights = got_data['count']
+    sources = got_data.iloc[:, 0]  # 1番目の列のデータ
+    targets = got_data.iloc[:, 1]  # 2番目の列のデータ
+    weights = got_data.iloc[:, 2]  # 3番目の列のデータ
+
 
     edge_data = zip(sources, targets, weights)
 
