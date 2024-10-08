@@ -1,4 +1,7 @@
 #Mecabによる形態素解析器と除外文字列（形態素解析前）、置換文字列（形態素解析後）の処理
+#2024年7月の時点から改善、形態素解析・共起抽出_Ver2ではこちらを使用
+#pre_tk(text):を用いる場合、このモジュールをインポートする前に、除外ファイルを設定・書き込みしてから用いる（将来的には除外ファイルを引数とする可能性あり）
+
 import MeCab
 import fitz
 import re
@@ -109,9 +112,9 @@ def text_to_list(file_path):
     return return_list
 
 #----------------------------------------------------------------------
-#形態素解析前のテキストデータ処理
+#形態素解析前のテキストデータ処理（
 #形態素解析の前に、無駄な記号やヘッダ・フッタ等の文言をテキストから除外
-def pre_tk(text):
+def pre_tk(text, excl_list):
 
     replaced_text = text
 
@@ -122,9 +125,10 @@ def pre_tk(text):
 
     exclusion_list = []    
     exclusion_file1 = "userdic/exclusion_phrases1.txt"  # 各企業の除外フレーズを記載したリスト
-    exclusion_file2 = "userdic/exclusion_phrases2.txt"  # 各企業の除外フレーズを記載したリスト2（pageinfoから都度取り込み）
-    exclusion_file3 = "userdic/exclusion_codes.txt"  # その他記号・年月日・URL等を除外するためのリスト
-    exclusion_list = text_to_list(exclusion_file1) + text_to_list(exclusion_file2)+ text_to_list(exclusion_file3)
+    exclusion_file2 = "userdic/exclusion_codes.txt"  # その他記号・年月日・URL等を除外するためのリスト
+    #exclusion_file3 = "userdic/exclusion_phrases2.txt"  # 各企業の除外フレーズを記載したリスト2（pageinfoから都度取り込み）
+#    exclusion_list = text_to_list(exclusion_file1) + text_to_list(exclusion_file2)+ text_to_list(exclusion_file3)
+    exclusion_list = excl_list + text_to_list(exclusion_file1) + text_to_list(exclusion_file2)
 
     for pattern in exclusion_list:
         replaced_text = re.sub(pattern, ' ', replaced_text)
