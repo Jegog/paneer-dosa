@@ -1,2 +1,2 @@
 # paneer-dosa
-#Docker environments for paersonal use
+#Docker environments for personal use
